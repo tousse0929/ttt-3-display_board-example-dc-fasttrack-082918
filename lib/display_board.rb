@@ -1,1 +1,2 @@
-display
+def display_board
+
